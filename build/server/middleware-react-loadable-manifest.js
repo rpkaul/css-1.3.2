@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST='{"app\\\\UI\\\\Layouts\\\\Main\\\\Charts\\\\Area\\\\index.tsx -> react-apexcharts":{"id":95117,"files":["static/chunks/63a829c1.e149de10483a4e71.js","static/chunks/5117.6a2a45c2ffe8e105.js"]}}';
